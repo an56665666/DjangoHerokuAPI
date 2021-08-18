@@ -11,7 +11,8 @@ pyjwt = "*"
 dry-yasg = "*"
 gunicorn = "*"
 psycopg2 = "*"
-django-herolu = "*"
+django-heroku = "*"
+virtualenv = "*"
 
 [dev-packages]
 pytest = "*"
