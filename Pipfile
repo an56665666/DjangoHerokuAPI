@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 requests = "*"
+django = "*"
+djangorestframework = "*"
+pyjwt = "*"
+dry-yasg = "*"
+gunicorn = "*"
+psycopg2 = "*"
+django-herolu = "*"
 
 [dev-packages]
 pytest = "*"
